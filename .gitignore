@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+.DS_Store
+
+## Dear ImGui artifacts
+imgui.ini
+
+# Visual Studio 
+/Release/*
+/Debug/*
+/.vs/*
+
+Debug/
+Release/
+.vs/
